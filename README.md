@@ -15,11 +15,13 @@ You can fiddle around with the React UI project in this [CodeSandbox](https://co
 
 ### Reel Reviews UI
 
-[Reel Reviews UI repository](https://github.com/gruberchris/reel-reviews-ui)
+GitHub: [Reel Reviews UI repository](https://github.com/gruberchris/reel-reviews-ui)
+DockerHub: [chrisgruber/reel-reviews-ui](https://hub.docker.com/r/chrisgruber/reel-reviews-ui)
 
 ### Reel Reviews API
 
-[Reel Reviews API repository](https://github.com/gruberchris/reel-reviews-api)
+GitHub: [Reel Reviews API repository](https://github.com/gruberchris/reel-reviews-api)
+DockerHub: [chrisgruber/reel-reviews-api](https://hub.docker.com/r/chrisgruber/reel-reviews-api)
 
 ## Known Issues/ToDo & What Needs To Be Improved For A Production Deployment
 
