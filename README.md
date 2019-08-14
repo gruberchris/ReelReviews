@@ -39,4 +39,5 @@ DockerHub: [chrisgruber/reel-reviews-api](https://hub.docker.com/r/chrisgruber/r
 - Allow users to share their favorite movies and reviews with their social media network
 - Implement games in Reel Reviews to allow users to compete with one another in their knowledge of movie trivia
 - I am sure there are more than a couple opprtunities to take advantage of more caching and hash tables to keep the favorites list performant as it grows over time
+- User input validation on the UI and also validate what the UI is sending the API also
 - In short, lots to do and lets of opportunity to make a cool app out of Reel Reviews
